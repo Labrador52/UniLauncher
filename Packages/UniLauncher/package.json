@@ -1,0 +1,10 @@
+{
+  "name": "com.aesthete.unilauncher",
+  "version": "0.1.0",
+  "displayName": "UniLauncher",
+  "description": "Provides a base class for managing game launch tasks and components for the launch order.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Labrador52"
+  }
+}
